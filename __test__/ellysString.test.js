@@ -1,10 +1,6 @@
 const EllysBalancedStrings = require("../ellysString");
 
-describe("EllysBalancedStrings", function () {
-  test("should return 1 if string passed is 'BANANA'", () => {
-    var string = "TOPCODER";
-    expect(EllysBalancedStrings(string)).toBe(1);
-  });
+describe("EllysBalancedStrings", function () { 
   test("should return 0 if string passed is 'BANANA'", () => {
     var string = "BANANA";
     expect(EllysBalancedStrings(string)).toBe(0);
