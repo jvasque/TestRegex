@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chai": "^4.3.4",
+    "jest": "^27.0.2"
+  },
+  "name": "testregex",
+  "description": "Test with regexp",
+  "version": "1.0.0",
+  "main": "ellysString.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvasque/TestRegex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvasque/TestRegex/issues"
+  },
+  "homepage": "https://github.com/jvasque/TestRegex#readme"
+}
